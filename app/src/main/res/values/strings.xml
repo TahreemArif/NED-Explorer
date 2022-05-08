@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NedExplorer</string>
+    <string name="poi_id">\@string/poi_id</string>
+    <string name="poi_name">poi_name</string>
+    <string name="poi_description">poi_description</string>
+    <string name="department">Department</string>
+    <string name="admin_offices">Admin Offices</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

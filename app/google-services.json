@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "235057495970",
+    "firebase_url": "https://ned-explorer.firebaseio.com",
+    "project_id": "ned-explorer",
+    "storage_bucket": "ned-explorer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235057495970:android:b5a38772bc653924",
+        "android_client_info": {
+          "package_name": "com.nedexplorer.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235057495970-c70832b525p4cl0olmhhv7q9lt16l96p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nedexplorer.myapplication",
+            "certificate_hash": "9266a2f8eedf4f3e2c3d5f9d23a6b5532c272a24"
+          }
+        },
+        {
+          "client_id": "235057495970-ldlgv278bbdtqeq98crjmd42qhmqm7i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS8l2VsLKS-unv9OV9rBOAXD964SBjk8M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235057495970-ldlgv278bbdtqeq98crjmd42qhmqm7i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
